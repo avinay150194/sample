@@ -6,6 +6,7 @@
 
          for (int i=0; i<ar1.length;i++)
          System.out.println("Index:-  "+i+" Value:- "+ar1[i]);
+           synchronized;
 
 
      }
